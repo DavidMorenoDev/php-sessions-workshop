@@ -1,6 +1,6 @@
 `#php` `#session` `#login` `#master-in-software-development`
 
-# Assembler Institute: [PHP SESSIONS WORKSHOP] - Workshop <!-- omit in toc -->
+# Assembler School: PHP SESSIONS WORKSHOP <!-- omit in toc -->
 
 In this workshop you will learn how to use Sessions in PHP
 
@@ -16,7 +16,7 @@ In this workshop you will learn how to use Sessions in PHP
 First of all, you will need to clone this repo:
 
 ```bash
-$ git clone https://github.com/assembler-institute/repository-name
+$ git clone https://github.com/assembler-school/repository-name
 ```
 ## Dependencies
 Install bootstrap dependencies:
